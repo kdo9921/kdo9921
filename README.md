@@ -18,4 +18,3 @@
 [![Mail Badge](https://img.shields.io/badge/kiwi@darae.dev-9CE159?style=flat&logo=Mail.Ru&logoColor=8C5E29)](mailto:kiwi@darae.dev)
 [![Twitter Badge](https://img.shields.io/badge/@_darae_-1DA1F2?style=flat&logo=Twitter&logoColor=ffffff)](https://twitter.com/_darae_)
 [![Telegram Badge](https://img.shields.io/badge/@Chamdarae-26A5E4?style=flat&logo=Telegram&logoColor=ffffff)](https://t.me/Chamdarae)
-[![Blog Badge](https://img.shields.io/badge/blog.darae.dev-15171A?style=flat&logo=Ghost&logoColor=ffffff)](https://blog.darae.dev)
