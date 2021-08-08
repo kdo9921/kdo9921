@@ -1,6 +1,6 @@
 ## Kiwi
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=darae">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=kdo9921&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="165">
 
 ### Who Am I
 
@@ -13,7 +13,7 @@
 - hanyeong High School (2015.3 ~ 2018.2)
 - Gyeonggi University of Science and Technology (2018.3 ~ )<br>Major : Computer & Mobile Convergence Engineering 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kdo9921&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" height="165">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=darae">
 
 ### Contact
 
