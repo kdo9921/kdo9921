@@ -11,7 +11,7 @@
 ### Education
 
 - hanyeong High School (2015.3 ~ 2018.2)
-- Gyeonggi University of Science and Technology (2018.3 ~ )<br>Major : Computer & Mobile Convergence Engineering 
+- Gyeonggi University of Science and Technology (2018.3 ~ )<br>Major : Computer & Mobile Convergence
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=darae">
 
