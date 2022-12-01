@@ -4,7 +4,6 @@
 
 ### Who Am I
 
-- Developer of Team NiNE
 - Student at Gyeonggi University of Science and Technology
 - I'm interested in Web and Game Programing
 
